@@ -1,4 +1,5 @@
 
+
 body {
     background-color: lightblue;
   }
@@ -7,8 +8,13 @@ body {
     color: white;
     text-align: center;
   }
-  
+  h2 {
+      color:aquamarine;
+      text-align: center;
+  }
   p {
     font-family: verdana;
     font-size: 20px;
+    text-align: center;
+
   }
